@@ -66,8 +66,17 @@ echo "<script>window.location.href='booking-history.php'</script>";
 			<div class="row">
 
 				<div class="col-lg-12 col-sm-6">
+					<h2>Admin 1</h2>
+					<p><strong>Name:</strong> Muhammad Yusuf</p>
 					<p><strong>Email:</strong> muhammad.yusuf04@president.ac.id</p>
 					<p><strong>Contact (Whatsapp):</strong> 08996675632</p>
+					<p><strong>Status:</strong> Single</p>
+				</div>
+				<div class="col-lg-12 col-sm-6">
+					<h2>Admin 2</h2>
+					<p><strong>Name:</strong> Kevin Lavpienji Nainggolan</p>
+					<p><strong>Email:</strong> kevin.nainggolan@president.ac.id</p>
+					<p><strong>Contact (Whatsapp):</strong> 082351517671</p>
 					<p><strong>Status:</strong> Single</p>
 				</div>
 			</div>
